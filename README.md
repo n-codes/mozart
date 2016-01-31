@@ -1,2 +1,2 @@
-# mozart
+# Mozart
 Websites made simple
